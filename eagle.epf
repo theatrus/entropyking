@@ -11,10 +11,6 @@ UsedLibrary="/home/atrus/eagle-lib/LS302DL.lbr"
 UsedLibrary="/home/atrus/eagle-lib/Philips_LPC2XXX.lbr"
 UsedLibrary="/home/atrus/eagle-lib/SparkFun.lbr"
 UsedLibrary="/home/atrus/eagle-lib/StackFoundry.lbr"
-UsedLibrary="/home/atrus/eagle-lib/at90can128.lbr"
-UsedLibrary="/home/atrus/eagle-lib/at91sam7sxxx-au.lbr"
-UsedLibrary="/home/atrus/eagle-lib/at91sam9261.lbr"
-UsedLibrary="/home/atrus/eagle-lib/attiny24_44_84.lbr"
 UsedLibrary="/home/atrus/eagle-lib/bv_20.lbr"
 UsedLibrary="/home/atrus/eagle-lib/jst-ph.lbr"
 UsedLibrary="/home/atrus/eagle-lib/jst_eph.lbr"
@@ -22,9 +18,6 @@ UsedLibrary="/home/atrus/eagle-lib/little-logic.lbr"
 UsedLibrary="/home/atrus/eagle-lib/memory-intel.lbr"
 UsedLibrary="/home/atrus/eagle-lib/microchip-mcp125x-xxx.lbr"
 UsedLibrary="/home/atrus/eagle-lib/microchip_can.lbr"
-UsedLibrary="/home/atrus/eagle-lib/msp430-1.lbr"
-UsedLibrary="/home/atrus/eagle-lib/msp430.lbr"
-UsedLibrary="/home/atrus/eagle-lib/msp430f5xxx.lbr"
 UsedLibrary="/home/atrus/eagle-lib/ptc-littlefuse.lbr"
 UsedLibrary="/home/atrus/eagle-lib/ramtron-2.lbr"
 UsedLibrary="/home/atrus/eagle-lib/rc-master-smd.lbr"
@@ -314,8 +307,8 @@ UsedLibrary="/home/atrus/bin/eagle-5.3.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="379 607 1449 1256"
-State=2
+Loc="873 713 1943 1362"
+State=0
 Number=0
 
 [Desktop]
